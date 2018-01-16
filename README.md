@@ -32,4 +32,4 @@ xwMOOC R Meetup 발표자료 모음
 ||시계열 데이터 예측|이광춘|[발표자료](https://statkclee.github.io/statistics/stat-time-series-forecast.html)|
 |2018.01.17(수)|h2o 소개|황문기|
 ||Spark R 소개|지용기|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_6/SparkR%EC%86%8C%EA%B0%9C/SparkR%EC%86%8C%EA%B0%9C.pdf)|
-||Code Snippets: batch jobs in R(라이트닝 토크)|어수행||
+||Code Snippets: batch jobs in R(라이트닝 토크)|어수행|[발표자료](https://github.com/sooheang/batch-jobs-R/blob/master/slide/BatchJobsR_xwMooc.pdf)|
