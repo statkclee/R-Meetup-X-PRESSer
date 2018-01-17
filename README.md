@@ -30,7 +30,7 @@ xwMOOC R Meetup 발표자료 모음
 |2017.12.21(목)|LASSO regresion을 이용한 Taxonomy|류충현|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_5/taxonomy/02_Documents_Texonomy_Slide.pdf)
 ||메타분석(Meta analysis)|김가경|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/tree/master/Meetup_5/MetaAnalysis)|
 ||시계열 데이터 예측|이광춘|[발표자료](https://statkclee.github.io/statistics/stat-time-series-forecast.html)|
-|2018.01.17(수)|h2o 소개|황문기|
+|2018.01.17(수)|h2o 소개|황문기|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_6/h2o_%EC%82%AC%EB%A1%80/XwMooc%20R%20Meetups%206%ED%9A%8C_%EC%84%B8%EC%85%981_%ED%99%A9%EB%AC%B8%EA%B8%B0_20180117.pdf)
 ||Spark R 소개|지용기|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_6/SparkR%EC%86%8C%EA%B0%9C/SparkR%EC%86%8C%EA%B0%9C.pdf)|
 ||Code Snippets: batch jobs in R(라이트닝 토크)|어수행|[발표자료](https://github.com/sooheang/batch-jobs-R/blob/master/slide/BatchJobsR_xwMooc.pdf)|
 ||Code Snippets:R 암호화폐|이광춘|[발표자료](https://statkclee.github.io/finance/finance-blockchain.html)|
