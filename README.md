@@ -34,3 +34,6 @@ xwMOOC R Meetup 발표자료 모음
 ||Spark R 소개|지용기|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_6/SparkR%EC%86%8C%EA%B0%9C/SparkR%EC%86%8C%EA%B0%9C.pdf)|
 ||Code Snippets: batch jobs in R(라이트닝 토크)|어수행|[발표자료](https://github.com/sooheang/batch-jobs-R/blob/master/slide/BatchJobsR_xwMooc.pdf)|
 ||Code Snippets:R 암호화폐|이광춘|[발표자료](https://statkclee.github.io/finance/finance-blockchain.html)|
+|2018.02.21(수)|빅데이터는 디스크에 쓰고 R 메모리라고 읽는다|이광춘||
+||한국 영화배우 데이터로 만든 한국판 케빈 베이컨 놀이|나성호||
+||라이트닝 토크 - "에너지 데이터 분석"|김설기||
