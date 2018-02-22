@@ -36,4 +36,4 @@ xwMOOC R Meetup 발표자료 모음
 ||Code Snippets:R 암호화폐|이광춘|[발표자료](https://statkclee.github.io/finance/finance-blockchain.html)|
 |2018.02.21(수)|빅데이터는 디스크에 쓰고 R 메모리라고 읽는다|이광춘|[발표자료](https://statkclee.github.io/bigdata/bigdata-bigmemeory.html)|
 ||한국 영화배우 데이터로 만든 한국판 케빈 베이컨 놀이|나성호|[발표자료](https://mrkevinna.github.io/SixDegreesOfKoreanActors/)|
-||데이터 정규화를 통한 Feature Selection|장윤경||
+||데이터 정규화를 통한 Feature Selection|장윤경|[발표자료](https://rpeople.github.io/r/2018/02/21/feature_selection)|
