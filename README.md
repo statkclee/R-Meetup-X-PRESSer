@@ -40,4 +40,8 @@ xwMOOC R Meetup 발표자료 모음
 |2018.03.21(수)|R과 shiny를 이용한 web application 제작|문건웅|[발표자료](https://github.com/cardiomoon/shinyLecture2)|
 ||Shiny Drill Down|이희재|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/tree/master/Meetup_8/shiny_drilldown)|
 ||Rstudio 컨퍼런스 후기|양승훈|[발표자료](https://drive.google.com/drive/folders/1aGzlXGjL-3AyYF85A08RoTkhNLft7bwv)|
+|2018.04.25(수)|언론사 데이터 저널리즘|배여운||
+||발표제목 미정|김영우||
+||라이트닝 토크 - 코에이 삼국지 데이터|이광춘||
+||라이트닝 토크 - 에너지 데이터 분석|김설기||
 
