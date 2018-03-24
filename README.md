@@ -38,6 +38,6 @@ xwMOOC R Meetup 발표자료 모음
 ||한국 영화배우 데이터로 만든 한국판 케빈 베이컨 놀이|나성호|[발표자료](https://mrkevinna.github.io/SixDegreesOfKoreanActors/)|
 ||데이터 정규화를 통한 Feature Selection|장윤경|[발표자료](https://rpeople.github.io/r/2018/02/21/feature_selection)|
 |2018.03.21(수)|R과 shiny를 이용한 web application 제작|문건웅|[발표자료](https://github.com/cardiomoon/shinyLecture2)|
-||Shiny 관련 주제(2)|이희재||
+||Shiny Drill Down|이희재|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/tree/master/Meetup_8/shiny_drilldown)|
 ||Rstudio 컨퍼런스 후기|양승훈|[발표자료](https://drive.google.com/drive/folders/1aGzlXGjL-3AyYF85A08RoTkhNLft7bwv)|
 
