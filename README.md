@@ -7,7 +7,7 @@ xwMOOC R Meetup 발표자료 모음
 
 * 장소 : 토즈 강남점 / 선릉 패스트파이브 
 * 매달 셋째주 수요일 
-* xwMOOC R Meetup은 KossLab(공개SW 개발자센터)와 패스트파이브에서 지원하고 있습니다. 감사합니다.
+* xwMOOC R Meetup은 KossLab(공개SW 개발자센터)에서 지원하고 있습니다. 감사합니다.
 
 * [일정표](https://docs.google.com/spreadsheets/d/1RF3xOB1wGsGAHmkw7KQ3FfVvZqkaKmycMHwUgEPYt10/edit?usp=sharing)
 
