@@ -41,7 +41,7 @@ xwMOOC R Meetup 발표자료 모음
 ||Shiny Drill Down|이희재|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/tree/master/Meetup_8/shiny_drilldown)|
 ||Rstudio 컨퍼런스 후기|양승훈|[발표자료](https://drive.google.com/drive/folders/1aGzlXGjL-3AyYF85A08RoTkhNLft7bwv)|
 |2018.04.25(수)|언론사 데이터 저널리즘|배여운||
-||데이터는 알고있다|김영우||
+||데이터는 알고있다|김영우|[발표자료](https://docs.google.com/document/d/1HpytnksNrW3SC2EsulL9CqQlpqddznuJmCDAMQZ_DU0/edit?usp=sharing)|
 ||백 마디 말보다 그래프 하나 - ggplot|이광춘|[발표자료](https://statkclee.github.io/data-product/data-journalism-working-pop.html)|
 ||라이트닝 토크 - 에너지 데이터 분석|김설기|[발표자료](https://akkou.github.io/public/#/)|
 ||라이트닝 토크 - 뉴스기사 솔루션 (키워드, 문장요약, 분류기) 소개|황문기|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_9/R%20Meetup%209%ED%9A%8C_%EC%84%B8%EC%85%985_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC%20%EB%B6%84%EC%84%9D%EC%BC%80%EC%9D%B4%EC%8A%A4_%ED%99%A9%EB%AC%B8%EA%B8%B0_20180425.pdf)|
